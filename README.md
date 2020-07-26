@@ -7,7 +7,8 @@ If the safe state is not achieved the number will not be accepted. Game only has
 Click on the box to enter your desired number on the board if it is valid it will be set.
 Delete key - used to change the number entered
 Enter key - used to set value of box in grid
-equirements:
+Space key - used to solve sudoku automatically
+Requirements:
 
 Python 3.8
 Pygame 2.0dev
